@@ -3,7 +3,7 @@
 This is more of a todo list than a thing you should read. 🙃
 
 Things I could/should do and their current statuses: 
-- Billions of Notes: [V1](https://www.billionsofnotes.com/) working but meh. Working on a [V2](https://billions-of-notes-git-v2-rowan-things.vercel.app/). Next up (V2) Basic note highlighting, import guitar module from v1, sound library. 
+- Billions of Notes: [V1](https://www.billionsofnotes.com/) working but meh. Working on a small version at "/smoll"  Next up, port the initial guitar module and a better sound library. 
 - Things on This Page: Unpublished, lots to do
 - Human not Resource: Unpublished, lots to do. Next up: Home page image. Various articles. most important thing right now.
 - Millions of Words: [Fine](https://millions-of-words-bitter-dawn-8253.fly.dev/), but need to polish and publish. Next up: lyrics editor, about, nlp, album overall page, js level parts of speech, date-added sorting
