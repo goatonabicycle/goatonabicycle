@@ -8,6 +8,6 @@ Things I could/should do and their current statuses:
 - Human not Resource: Unpublished, lots to do. Soon: Home page image. Various articles. most important thing right now. will have 3 articles soon. 
 - Millions of Words: [Fine](https://millions-of-words-bitter-dawn-8253.fly.dev/), but need to polish and publish. Next up: sentiments, accuracy finalization, import from more sources
 - Make Things Move: [Fine](https://make-things-move.vercel.app/), but lots of polishing and content to do before publishing. Need more silly experiment ideas.
-- Rhymey: [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). Todo: Publish for Firefox.
+- Rhymey: [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). 
 - Grug Listen Music: [Running fine](https://www.gruglistenmusic.com/). Soon: Update pals with description. Expand what Grug writes about to include longform blog like stuff.
 - This is on Ampwall: Unpublished. TBD
