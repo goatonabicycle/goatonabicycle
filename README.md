@@ -11,3 +11,4 @@ Things I could/should do and their current statuses:
 - Rhymey: [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). 
 - Grug Listen Music: [Running fine](https://www.gruglistenmusic.com/). Soon: Update pals with description. Expand what Grug writes about to include longform blog like stuff.
 - Ftg to steam: Unpublished. TBD
+- SPTarkov mods: Unpublished. TBD
