@@ -10,5 +10,5 @@ Things I could/should do and their current statuses:
 - Make Things Move: [Fine](https://make-things-move.vercel.app/), but lots of polishing and content to do before publishing. Need more silly experiment ideas. Adding config panels everywhere
 - Rhymey: [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). 
 - Grug Listen Music: [Running fine](https://www.gruglistenmusic.com/). Soon: Update pals with description. Expand what Grug writes about to include longform blog like stuff.
-- Ftg to steam: Unpublished. TBD
+- Ftg to steam: Unpublished but working. TBD
 - SPTarkov mods: [Better Arm Stamina](https://hub.sp-tarkov.com/files/file/2899-better-arm-stamina/), BetterBanners (coming soon once 4.0.0 is around and I've figured out how the banner rotation actually works)
