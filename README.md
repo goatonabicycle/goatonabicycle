@@ -11,4 +11,5 @@ Things I could/should do and their current statuses:
 - Rhymey: [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). 
 - Grug Listen Music: [Running fine](https://www.gruglistenmusic.com/). Taking a break from music reviews. One day one day.
 - Ftg to steam: Unpublished but working. TBD. Chrome only for now.
-- SPTarkov mods: [Better Arm Stamina](https://hub.sp-tarkov.com/files/file/2899-better-arm-stamina/), BetterBanners (coming soon once 4.0.0 is around and I've figured out how the banner rotation actually works)
+- SPTarkov mods: [Better Arm Stamina](https://hub.sp-tarkov.com/files/file/2899-better-arm-stamina/) - A mod downloaded by thousands of people who want their arms to last longer!
+- SPTarkov mods: BetterBanners (coming soon once 4.0.0 is around and I've figured out how the banner rotation actually works)
