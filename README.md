@@ -5,7 +5,8 @@ This is more of a todo list than a thing you should read. 🙃
 Things I could/should do and their current statuses: 
 - Billions of Notes: [Almost there](https://www.billionsofnotes.com/). Will be published and made known soon!
 - Things on This Page: [Unpublished](https://github.com/goatonabicycle/things-on-this-page), lots to do. Initial version in the coming weeks.
-- Human not Resource: Unpublished, lots to do. Soon: Home page image. Various articles. most important thing right now. will have 3 articles soon. 
+- Human not Resource: Unpublished, lots to do. Soon: Home page image. Various articles. most important thing right now. will have 3 articles soon.
+- Extension Info Monitor - [Actively used](https://extension-info-monitoring.vercel.app/) to keep track of where we are with the rolling out of the latest versions of the extensions I work on.
 - Millions of Words: [Fine](https://millions-of-words-bitter-dawn-8253.fly.dev/), but need to polish and publish. Next up: sentiments, accuracy finalization, import from more sources
 - Make Things Move: [Fine](https://make-things-move.vercel.app/), but lots of polishing and content to do before publishing. 
 - Rhymey: A rhyme finding extension! [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). 
