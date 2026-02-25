@@ -10,7 +10,7 @@ Things I could/should do and their current statuses:
 - Millions of Words: [Fine](https://millions-of-words-bitter-dawn-8253.fly.dev/), but need to polish and publish. Next up: sentiments, accuracy finalization, import from more sources
 - Make Things Move: [Fine](https://make-things-move.vercel.app/), but lots of polishing and content to do before publishing. 
 - Rhymey: A rhyme finding extension! [Running fine](https://chromewebstore.google.com/detail/rhymey/fbkmdcolngnmmhmdkhngfmdmeofipahp). 
-- Grug Listen Music: [No longer running](https://www.gruglistenmusic.com/). Taking a break from music reviews. One day one day.
-- Ftg to steam: Unpublished but working. TBD. Chrome only for now.
+- Grug Listen Music: No longer running. Taking a break from music reviews. One day one day.
+- Ftg to steam: [Running](https://chromewebstore.google.com/detail/fitgirl-steam-lookup/febbcafmhiapfijiegmmdmgcoijocebd). Chrome only for now.
 - SPTarkov mods: [Better Arm Stamina](https://hub.sp-tarkov.com/files/file/2899-better-arm-stamina/) - A mod downloaded by thousands of people who want their arms to last longer!
 - SPTarkov mods: BetterBanners (coming soon once 4.0.0 is around and I've figured out how the banner rotation actually works)
